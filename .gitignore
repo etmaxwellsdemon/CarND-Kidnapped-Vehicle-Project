@@ -6,3 +6,21 @@ solution_data
 src/particle_filter_sol.cpp
 src/solutions
 particle_filter.cpp
+
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+ide_profiles/xcode/Debug/
+ide_profiles/xcode/PARTICLE_FILTER.build
+ide_profiles/xcode/CMakeFiles/
+ide_profiles/xcode/CMakeScripts
